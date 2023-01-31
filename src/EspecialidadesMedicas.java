@@ -1,0 +1,9 @@
+public enum EspecialidadesMedicas {
+    ATENCIONPRIMARIA,
+    CARDIOLOGIA,
+    DERMATOLOGIA,
+    OTORRINOLOGIA,
+    OFTALMOLOGIA,
+    GINECOLOGIA;
+
+}
